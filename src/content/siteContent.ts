@@ -30,7 +30,7 @@ export const siteContent = {
       testimonials: [
         {
           quote: "ACC keeps me cool, so I can focus on what matters: getting the job done.",
-          author: "30 years old, Electrician",
+          author: "31 years old, Electrician",
           image: {
             src: "https://cdn.builder.io/api/v1/image/assets%2F105f2061e4de4572989bc0746b5c0807%2Fa7a2225a348f474e843be348fb59e102",
             alt: "Construction improvement illustration",
