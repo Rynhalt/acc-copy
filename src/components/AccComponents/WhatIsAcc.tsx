@@ -1,6 +1,6 @@
 import React from "react";
-import FadeInSection from "../../../../../ACC/src/components/shared/FadeInSection";
-import SectionTitle from "../../../../../ACC/src/components/shared/SectionTitle";
+import FadeInSection from "../../../src/components/shared/FadeInSection";
+import SectionTitle from "../../../src/components/shared/SectionTitle";
 import { siteContent } from "../../content/siteContent";
 
 const WhatIsAcc: React.FC = () => {

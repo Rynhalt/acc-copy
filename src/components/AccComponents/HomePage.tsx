@@ -1,7 +1,7 @@
 'use client'
 import { siteContent } from "@/content/siteContent";
 import React, { useEffect, useState } from "react";
-import LoadingAnimation from "../../../../../ACC/src/components/shared/LoadingAnimation";
+import LoadingAnimation from "../../../src/components/shared/LoadingAnimation";
 import BeforeAfter from "./BeforeAfter";
 import Contact from "./Contact";
 import PathForBetterWork from "./Features";

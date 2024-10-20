@@ -1,7 +1,7 @@
 'use client'
 import React from "react";
-import FadeInSection from "../../../../../ACC/src/components/shared/FadeInSection";
-import ImageWithCaption from "../../../../../ACC/src/components/shared/ImageWithCaption";
+import FadeInSection from "../../../src/components/shared/FadeInSection";
+import ImageWithCaption from "../../../src/components/shared/ImageWithCaption";
 import { siteContent } from "../../content/siteContent";
 
 const PathForBetterWork: React.FC = () => {

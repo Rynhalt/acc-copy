@@ -1,8 +1,8 @@
 'use client'
 import Link from "next/link";
 import React, { useState } from "react";
-import FadeInSection from "../../../../../ACC/src/components/shared/FadeInSection";
-import ModelViewer from "../../../../../ACC/src/components/shared/ModelViewer"; // Import ModelViewer
+import FadeInSection from "../../../src/components/shared/FadeInSection";
+import ModelViewer from "../../../src/components/shared/ModelViewer"; // Import ModelViewer
 import "../../app/globals.css";
 import { siteContent } from "../../content/siteContent";
 

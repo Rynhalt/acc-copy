@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from "react";
-import FadeInSection from "../../../../../ACC/src/components/shared/FadeInSection";
-import TestimonialImage from "../../../../../ACC/src/components/shared/TestimonialUser";
+import FadeInSection from "../../../src/components/shared/FadeInSection";
+import TestimonialImage from "../../../src/components/shared/TestimonialUser";
 import { siteContent } from "../../content/siteContent";
 
 const Testimonial: React.FC = () => {
